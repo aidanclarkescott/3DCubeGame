@@ -1,0 +1,16 @@
+{
+"companyName": "Yalty",
+"productName": "Cube",
+"productVersion": "0.1",
+"dataUrl": "Cube.data.unityweb",
+"wasmCodeUrl": "Cube.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cube.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
