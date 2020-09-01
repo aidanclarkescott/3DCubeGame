@@ -127,6 +127,7 @@ MonoBehaviour:
   rb: {fileID: 1759414123320184307}
   forwardForce: 4000
   sidewaysForce: 80
+  verticalForce: 80
 --- !u!114 &1759414123320184305
 MonoBehaviour:
   m_ObjectHideFlags: 0
